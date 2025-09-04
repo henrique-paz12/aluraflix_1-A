@@ -38,8 +38,8 @@ img{
 .chamada-video{
     display: flex;
     overflow-x: auto;
-    gap: 40px;
+    gap: 30px;
 }
 h2{
-    font-size: 20px;
+    font-size: 35px;
 }
